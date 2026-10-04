@@ -1,0 +1,6 @@
+{
+  "name": "LOVE HAVEN - Vườn Chatbot AI & Thư Tình",
+  "description": "Không gian thơ mộng để chia sẻ và khám phá các nhân vật AI, cốt truyện đặc sắc và những lá thư gửi gắm yêu thương giữa vườn hoa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
